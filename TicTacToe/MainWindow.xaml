@@ -31,5 +31,6 @@
             <Button Content="" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1" Tag="21" MouseRightButtonUp="RightUp" PreviewMouseLeftButtonUp="LeftUp" Height="100" Width="100"/>
             <Button Content="" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="2" Tag="22" MouseRightButtonUp="RightUp" PreviewMouseLeftButtonUp="LeftUp" Height="100" Width="100"/>
         </Grid>
+        <TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Center" Text="Left Click = X | Right Click = O" Margin="10" FontSize="20"/>
     </Grid>
 </Window>
